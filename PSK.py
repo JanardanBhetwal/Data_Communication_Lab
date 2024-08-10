@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Parameters
 Fs = 10000  # Sampling frequency (high resolution)
 T = 1       # Duration of the signal in seconds
-f_c = 100  # Frequency of the carrier signal in Hz (high frequency for clear phase shift)
+f_c = 50  # Frequency of the carrier signal in Hz (high frequency for clear phase shift)
 f_m = 5     # Frequency of the message signal in Hz (lower frequency)
 A_c = 1     # Amplitude of the carrier signal
 

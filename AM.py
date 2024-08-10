@@ -6,7 +6,7 @@ Fs = 10000  # Sampling frequency
 t = np.arange(0, 1, 1/Fs)  # Time vector
 f_m = 5  # Frequency of message signal
 f_c = 100  # Frequency of carrier signal
-A_m = 2  # Amplitude of message signal
+A_m = 1  # Amplitude of message signal
 A_c = 1  # Amplitude of carrier signal
 
 # Message and carrier signals
